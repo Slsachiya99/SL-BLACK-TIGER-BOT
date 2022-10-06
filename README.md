@@ -20,4 +20,4 @@
 
 - CHANGE OWNER NAME [Here](https://github.com/Nipuna-apps/Blue-Lione-Bot.git/blob/master/settings.js#L59)
 
-- CHANGE BOT NAME [Here] ( https:https://github.com/Slsachiya99/SL-BLACK-TIGER-BOT/blob/main/README.md
+- CHANGE BOT NAME [Here]  𝕊𝕃-𝔹𝕃𝔸ℂ𝕂-𝕋𝕀𝔾𝔼ℝ-𝔹𝕆𝕋 
