@@ -20,4 +20,7 @@
 
 - CHANGE OWNER NAME [Here](https://github.com/Nipuna-apps/Blue-Lione-Bot.git/blob/master/settings.js#L59)
 
-- CHANGE BOT NAME [Here]  𝕊𝕃-𝔹𝕃𝔸ℂ𝕂-𝕋𝕀𝔾𝔼ℝ-𝔹𝕆𝕋 
+- CHANGE BOT NAME [Here]  𝕊𝕃-𝔹𝕃𝔸ℂ𝕂-𝕋𝕀𝔾𝔼ℝ-𝔹𝕆𝕋
+
+```
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
