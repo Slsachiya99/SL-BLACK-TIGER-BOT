@@ -10,3 +10,14 @@
 ## `Scan QR Code For Session 
   [![Cheems Bot](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@nipunarangana/Blue-Lione-Bot?v=1)
   
+## `SETTINGS`
+
+ - CHANGE OWNER NUMBER VCARD [Here](https://github.com/Nipuna-apps/Blue-Lione-Bot/blob/master/settings.js#L58)
+
+- CHANGE OWNER NUMBER MENU [Here](https://github.com/Nipuna-apps/Blue-Lione-Bot/blob/master/settings.js#L65)
+
+- CHANGE OWNER NUMBER TAG [Here](https://github.com/Nipuna-apps/Blue-Lione-Bot.git/blob/master/settings.js#L66)
+
+- CHANGE OWNER NAME [Here](https://github.com/Nipuna-apps/Blue-Lione-Bot.git/blob/master/settings.js#L59)
+
+- CHANGE BOT NAME [Here](https:https://github.com/Slsachiya99/SL-BLACK-TIGER-BOT/blob/main/README.md
