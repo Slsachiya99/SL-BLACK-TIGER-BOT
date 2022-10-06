@@ -12,7 +12,7 @@
   
 ## `SETTINGS`
 
- - CHANGE OWNER NUMBER VCARD [Here](https://github.com/Nipuna-apps/Blue-Lione-Bot/blob/master/settings.js#L58)
+ - CHANGE OWNER NUMBER VCARD [Here](https://github.com/Slsachiya99/SL-BLACK-TIGER-BOT/blob/%F0%9D%95%8A%F0%9D%95%83-%F0%9D%94%B9%F0%9D%95%83%F0%9D%94%B8%E2%84%82%F0%9D%95%82-%F0%9D%95%8B%F0%9D%95%80%F0%9D%94%BE%F0%9D%94%BC%E2%84%9D-%F0%9D%94%B9%F0%9D%95%86%F0%9D%95%8B/README.md)
 
 - CHANGE OWNER NUMBER MENU [Here](https://github.com/Nipuna-apps/Blue-Lione-Bot/blob/master/settings.js#L65)
 
