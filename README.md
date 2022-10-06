@@ -13,14 +13,14 @@
 ## `SETTINGS`
  
  
- ## 😎🤏 [Scan QR In Your Whatsapp From Here](https://replit.com/@KumuthuPrabhash/Red-Dragon-Bot-Qr-Code?v=1)
+ ## 🥵 [Scan QR In Your Whatsapp From Here](https://replit.com/@KumuthuPrabhash/Red-Dragon-Bot-Qr-Code?v=1)
 
  
 
-## 😎🤏 [Fork This Repo By Clicking Here](https://github.com/prabhasha2006/Red-Dragon/fork)
+## 🥵 [Fork This Repo By Clicking Here](https://github.com/prabhasha2006/Red-Dragon/fork)
 
  
 
-## 🤏😎➾ [Then Deploy The Bot From Here](https://heroku.com/deploy)
+## 🥵 [Then Deploy The Bot From Here](https://heroku.com/deploy)
 
-## 🤏😎➾ [Red Dragon Bot Official Website Here](https://sites.google.com/view/red-dragon-bot/home)
+## 🥵 [Red Dragon Bot Official Website Here](https://sites.google.com/view/red-dragon-bot/home)
