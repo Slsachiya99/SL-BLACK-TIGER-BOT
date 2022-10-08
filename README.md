@@ -13,8 +13,8 @@
 ## `SETTINGS`
  
  
- ## 🥵 [Scan QR In Your Whatsapp From Here](https://replit.com/@KumuthuPrabhash/Red-Dragon-Bot-Qr-Code?v=1)
-
+ ## 🥵 [Scan QR In Your Whatsapp From Here](https://replit.com/@KumuthuPrabhash/black-tiger-Bot-Qr-Code?v=1)
+6
  
 
 ## 🥵 [Fork This Repo By Clicking Here](https://github.com/prabhasha2006/Red-Dragon/fork)
